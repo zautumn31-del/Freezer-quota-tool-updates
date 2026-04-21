@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "notes": "",
-  "pub_date": "2026-04-21T14:20:15Z",
+  "pub_date": "2026-04-21T15:02:53Z",
   "platforms": {
     "macos-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNXpHWEJrQm1pWUlBaHl3anlwUE12d0QzVld6b0pQd2NmTWk5RWVaVEVRcGNTS28vS1JkTmpEOVVwbXdRSUZZTXJnT3BGRCt1bFUvSHh6YWJCWjFrbjVIK3R1bEdYQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzgxMjE0CWZpbGU6ZnJlZXplci1tYW50aW5lLXByb2plY3QuYXBwLnRhci5negowNlhCdGhLd0o2TkVYekFud0ZJbWg3dkF2cDVmaDVWL3VBSlZOc1orRG4vTlF4UkZSUlVDcmtMeGdhOG90LzNGbXp5ZTNoMlcyd3BGVFoybXRBdnZDdz09Cg==",
-      "url": "https://github.com/zautumn31-del/Freezer-quota-tool-updates/releases/download/v0.1.15/freezer-mantine-project.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNXpHWEJrQm1pWUE5V0c3N25rMGxpb1d6Mjhtd1NvM1RzWXlKMHp4UVdDcE1EMXY4bU9YUkZCM1JjSDkzeCtYdklOMlVjQk9EdW1reHk0NE8yTFEyVUtwM3Q4K3QvOGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzgzNzczCWZpbGU6ZnJlZXplci1tYW50aW5lLXByb2plY3QuYXBwLnRhci5negpMSE5yV2dXcmtPbGZ5UnZTNG9KM0VVakhUL0R1ditGbmtZVE41dzJ1NE1xVGNsNTRFbGpSRUsvK3ZoTjgwc1EzTGdWWWxhSVpySlhhVlFER0JlSXJEQT09Cg==",
+      "url": "https://github.com/zautumn31-del/Freezer-quota-tool-updates/releases/download/v0.1.16/freezer-mantine-project.app.tar.gz"
     }
   }
 }
