@@ -1,0 +1,11 @@
+{
+  "version": "9.9.9-test",
+  "notes": "测试更新源：始终返回一个可安装的测试版本，用于反复验证下载与安装链路。",
+  "pub_date": "2026-04-21T15:02:53Z",
+  "platforms": {
+    "macos-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNXpHWEJrQm1pWUE5V0c3N25rMGxpb1d6Mjhtd1NvM1RzWXlKMHp4UVdDcE1EMXY4bU9YUkZCM1JjSDkzeCtYdklOMlVjQk9EdW1reHk0NE8yTFEyVUtwM3Q4K3QvOGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzgzNzczCWZpbGU6ZnJlZXplci1tYW50aW5lLXByb2plY3QuYXBwLnRhci5negpMSE5yV2dXcmtPbGZ5UnZTNG9KM0VVakhUL0R1ditGbmtZVE41dzJ1NE1xVGNsNTRFbGpSRUsvK3ZoTjgwc1EzTGdWWWxhSVpySlhhVlFER0JlSXJEQT09Cg==",
+      "url": "https://github.com/zautumn31-del/Freezer-quota-tool-updates/releases/download/v0.1.16/freezer-mantine-project.app.tar.gz"
+    }
+  }
+}
